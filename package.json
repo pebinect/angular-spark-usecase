@@ -1,7 +1,7 @@
 {
   "name": "angular-spark-usecase",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "Commercial",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
